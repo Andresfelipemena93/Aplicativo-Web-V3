@@ -52,8 +52,8 @@ nav ul li a:hover {
 
 .section__content__title {
 	font-size: 4rem;
-	font-family: 'Lato', sans-serif;
-	font-weight: 900;
+	font-family: 'roboot', sans-serif;
+	font-weight: 700;
 	margin-bottom: 0.2rem;
 }
 
@@ -68,7 +68,7 @@ nav ul li a:hover {
 	font-weight: 500;
 }
 .section__content__subtitle3{
-	font-family: 'Lato', sans-serif;
+	font-family: 'roboot', sans-serif;
 	padding-top: 2%;
 	font-size: 1.5em;
 	font-weight: 700;
